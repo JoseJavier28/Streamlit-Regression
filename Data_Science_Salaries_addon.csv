@@ -1,0 +1,1337 @@
+job_title,experience_level,company_size,salary_in_usd
+Data Scientist,SE,L,203610
+Data Scientist,SE,L,218000
+Data Scientist,SE,L,247000
+Data Scientist,SE,L,240500
+Data Scientist,SE,L,220000
+Data Scientist,SE,L,187500
+Data Scientist,SE,L,254000
+Data Scientist,SE,S,152838
+Data Scientist,SE,S,93300
+Data Scientist,SE,S,112800
+Data Scientist,SE,S,115000
+Data Scientist,SE,S,139000
+Data Scientist,SE,S,121000
+Data Scientist,SE,S,124000
+Data Scientist,SE,S,111000
+Data Scientist,SE,S,110500
+Data Scientist,SE,S,98300
+Data Scientist,SE,S,140000
+Data Scientist,SE,S,110090
+Data Scientist,SE,S,100100
+Data Scientist,SE,S,90000
+Data Scientist,SE,S,119000
+Data Scientist,SE,S,130000
+Data Scientist,SE,S,136300
+Data Scientist,SE,S,100000
+Data Scientist,SE,S,90240
+Data Scientist,SE,S,112000
+Data Scientist,SE,S,110000
+Data Scientist,MI,M,106600
+Data Scientist,MI,M,190000
+Data Scientist,MI,M,130941
+Data Scientist,MI,M,160500
+Data Scientist,MI,M,135000
+Data Scientist,MI,M,121500
+Data Scientist,MI,M,127500
+Data Scientist,MI,L,191000
+Data Scientist,MI,L,161000
+Data Scientist,MI,L,177000
+Data Scientist,MI,L,151000
+Data Scientist,MI,L,172000
+Data Scientist,MI,L,146500
+Data Scientist,MI,L,132210
+Data Scientist,MI,L,164450
+Data Scientist,MI,L,145617
+Data Scientist,MI,L,150000
+Data Scientist,MI,L,194000
+Data Scientist,MI,L,137777
+Data Scientist,MI,S,90000
+Data Scientist,MI,S,76600
+Data Scientist,MI,S,97000
+Data Scientist,MI,S,100000
+Data Scientist,MI,S,120000
+Data Scientist,MI,S,92300
+Data Scientist,MI,S,91000
+Data Scientist,MI,S,82000
+Data Scientist,MI,S,112000
+Data Scientist,MI,S,81900
+Data Scientist,MI,S,85500
+Data Scientist,MI,S,92000
+Data Scientist,MI,S,88800
+Data Scientist,MI,S,118000
+Data Scientist,MI,S,89900
+Data Scientist,MI,S,95300
+Data Scientist,MI,S,107035
+Data Scientist,MI,S,70000
+Data Scientist,EN,S,71170
+Data Scientist,EN,S,75338
+Data Scientist,EN,S,70522
+Data Scientist,EN,S,81089
+Data Scientist,EN,S,80175
+Data Scientist,EN,S,74024
+Data Scientist,EN,S,82170
+Data Scientist,EN,S,69383
+Data Scientist,EN,S,66307
+Data Scientist,EN,S,71662
+Data Scientist,EN,S,82477
+Data Scientist,EN,S,80259
+Data Scientist,EN,S,82016
+Data Scientist,EN,S,78226
+Data Scientist,EN,S,68761
+Data Scientist,EN,S,69021
+Data Scientist,EN,S,80502
+Data Scientist,EN,S,65995
+Data Scientist,EN,S,79101
+Data Scientist,EN,S,68928
+Data Scientist,EN,S,68531
+Data Scientist,EN,S,82701
+Data Scientist,EN,S,80738
+Data Scientist,EN,S,69245
+Data Scientist,EN,S,81811
+Data Scientist,EN,S,75577
+Data Scientist,EN,S,66683
+Data Scientist,EN,S,66825
+Data Scientist,EN,S,69007
+Data Scientist,EN,S,73846
+Data Scientist,EN,S,77928
+Data Scientist,EN,S,70447
+Data Scientist,EN,S,81594
+Data Scientist,EN,S,72067
+Data Scientist,EN,S,83459
+Data Scientist,EN,S,70069
+Data Scientist,EN,S,68103
+Data Scientist,EN,S,70887
+Data Scientist,SE,L,241863
+Data Scientist,SE,L,211353
+Data Scientist,SE,L,234736
+Data Scientist,SE,L,229241
+Data Scientist,SE,L,218623
+Data Scientist,SE,L,248507
+Data Scientist,SE,L,222418
+Data Scientist,SE,L,246020
+Data Scientist,SE,L,226886
+Data Scientist,SE,L,234078
+Data Scientist,SE,L,217938
+Data Scientist,SE,L,236500
+Data Scientist,SE,L,231920
+Data Scientist,SE,L,219421
+Data Scientist,SE,L,212063
+Data Scientist,SE,L,220610
+Data Scientist,SE,L,210279
+Data Scientist,SE,L,252456
+Data Scientist,SE,L,218619
+Data Scientist,SE,L,250996
+Data Scientist,SE,L,253061
+Data Scientist,SE,S,138498
+Data Scientist,SE,S,106957
+Data Scientist,SE,S,115494
+Data Scientist,SE,S,114806
+Data Scientist,SE,S,91554
+Data Scientist,SE,S,134544
+Data Scientist,SE,S,130586
+Data Scientist,SE,S,147438
+Data Scientist,SE,S,141815
+Data Scientist,SE,S,118778
+Data Scientist,SE,S,133687
+Data Scientist,SE,S,99291
+Data Scientist,SE,S,108593
+Data Scientist,SE,S,123057
+Data Scientist,SE,S,92850
+Data Scientist,SE,S,150900
+Data Scientist,SE,S,133758
+Data Scientist,SE,S,138521
+Data Scientist,SE,S,110012
+Data Scientist,SE,S,114858
+Data Scientist,SE,S,138236
+Data Scientist,SE,S,124372
+Data Scientist,SE,S,130212
+Data Scientist,SE,S,113996
+Data Scientist,SE,S,149976
+Data Scientist,SE,S,148638
+Data Scientist,SE,S,111404
+Data Scientist,SE,S,142306
+Data Scientist,SE,S,100877
+Data Scientist,SE,S,125671
+Data Scientist,SE,S,152415
+Data Scientist,SE,S,114547
+Data Scientist,SE,S,123137
+Data Scientist,SE,S,127136
+Data Scientist,MI,M,133631
+Data Scientist,MI,M,146896
+Data Scientist,MI,M,102203
+Data Scientist,MI,M,138749
+Data Scientist,MI,M,126282
+Data Scientist,MI,M,139102
+Data Scientist,MI,M,124592
+Data Scientist,MI,M,101467
+Data Scientist,MI,M,110317
+Data Scientist,MI,M,119411
+Data Scientist,MI,M,140566
+Data Scientist,MI,M,102262
+Data Scientist,MI,M,144055
+Data Scientist,MI,M,105288
+Data Scientist,MI,M,133917
+Data Scientist,MI,M,156846
+Data Scientist,MI,M,101729
+Data Scientist,MI,M,140392
+Data Scientist,MI,M,116249
+Data Scientist,MI,M,121310
+Data Scientist,MI,M,144169
+Data Scientist,MI,M,143937
+Data Scientist,MI,M,156478
+Data Scientist,MI,M,101847
+Data Scientist,MI,M,110374
+Data Scientist,MI,M,154932
+Data Scientist,MI,M,145422
+Data Scientist,MI,M,133855
+Data Scientist,MI,M,134721
+Data Scientist,MI,M,105087
+Data Scientist,MI,M,138212
+Data Scientist,MI,M,132546
+Data Scientist,MI,M,122142
+Data Scientist,MI,M,142164
+Data Scientist,MI,M,118150
+Data Scientist,MI,M,134739
+Data Scientist,MI,M,125007
+Data Scientist,MI,M,112286
+Data Scientist,MI,M,154878
+Data Scientist,MI,M,120050
+Data Scientist,MI,L,179970
+Data Scientist,MI,L,157474
+Data Scientist,MI,L,169782
+Data Scientist,MI,L,151686
+Data Scientist,MI,L,172717
+Data Scientist,MI,L,141664
+Data Scientist,MI,L,175399
+Data Scientist,MI,L,177747
+Data Scientist,MI,L,187391
+Data Scientist,MI,L,141098
+Data Scientist,MI,L,186922
+Data Scientist,MI,L,183031
+Data Scientist,MI,L,132233
+Data Scientist,MI,L,174381
+Data Scientist,MI,L,151186
+Data Scientist,MI,L,176354
+Data Scientist,MI,L,170389
+Data Scientist,MI,L,155969
+Data Scientist,MI,L,156207
+Data Scientist,MI,L,173878
+Data Scientist,MI,L,152568
+Data Scientist,MI,L,179257
+Data Scientist,MI,L,143547
+Data Scientist,MI,L,176013
+Data Scientist,MI,L,147429
+Data Scientist,MI,L,149982
+Data Scientist,MI,L,183671
+Data Scientist,MI,L,184235
+Data Scientist,MI,L,153450
+Data Scientist,MI,L,153143
+Data Scientist,MI,L,140400
+Data Scientist,MI,L,180458
+Data Scientist,MI,L,171852
+Data Scientist,MI,S,115689
+Data Scientist,MI,S,85256
+Data Scientist,MI,S,82949
+Data Scientist,MI,S,80405
+Data Scientist,MI,S,119030
+Data Scientist,MI,S,89767
+Data Scientist,MI,S,88892
+Data Scientist,MI,S,97024
+Data Scientist,MI,S,100718
+Data Scientist,MI,S,86124
+Data Scientist,MI,S,103606
+Data Scientist,MI,S,109653
+Data Scientist,MI,S,110746
+Data Scientist,MI,S,97137
+Data Scientist,MI,S,116070
+Data Scientist,MI,S,90687
+Data Scientist,MI,S,101244
+Data Scientist,MI,S,110419
+Data Scientist,MI,S,117967
+Data Scientist,MI,S,85106
+Data Scientist,MI,S,94403
+Data Scientist,MI,S,108562
+Data Scientist,MI,S,95922
+Data Scientist,MI,S,91837
+Data Scientist,MI,S,107463
+Data Scientist,MI,S,81551
+Data Scientist,MI,S,115088
+Data Scientist,MI,S,104605
+Data Scientist,MI,S,85773
+Data Scientist,MI,S,119219
+Data Scientist,MI,S,76572
+Data Scientist,MI,S,95252
+Data Scientist,MI,S,84524
+Data Scientist,MI,S,91867
+Data Scientist,MI,S,108470
+Data Scientist,MI,S,99409
+Data Scientist,MI,S,85504
+Data Scientist,MI,S,102615
+Data Scientist,MI,S,105776
+Data Scientist,MI,S,111894
+Data Scientist,MI,S,112435
+Data Scientist,MI,S,76261
+Data Scientist,EN,M,75847
+Data Scientist,EN,M,79863
+Data Scientist,EN,M,74413
+Data Scientist,EN,M,68561
+Data Scientist,EN,M,75829
+Data Scientist,EN,M,83200
+Data Scientist,EN,M,76489
+Data Scientist,EN,M,82375
+Data Scientist,EN,M,68705
+Data Scientist,EN,M,79943
+Data Scientist,EN,M,76435
+Data Scientist,EN,M,73519
+Data Scientist,EN,M,82486
+Data Scientist,EN,M,68943
+Data Scientist,EN,M,81124
+Data Scientist,EN,M,83206
+Data Scientist,EN,M,76195
+Data Scientist,EN,M,81549
+Data Scientist,EN,M,68388
+Data Scientist,EN,M,69094
+Data Scientist,EN,M,82558
+Data Scientist,EN,M,73754
+Data Scientist,EN,M,74280
+Data Scientist,EN,M,73972
+Data Scientist,EN,M,70055
+Data Scientist,EN,M,75346
+Data Scientist,EN,M,69328
+Data Scientist,EN,M,81944
+Data Scientist,EN,M,75533
+Data Scientist,EN,M,78182
+Data Scientist,EN,M,81431
+Data Scientist,EN,M,71149
+Data Scientist,EN,M,68623
+Data Scientist,EN,M,68701
+Data Scientist,EN,L,76439
+Data Scientist,EN,L,84937
+Data Scientist,EN,L,79673
+Data Scientist,EN,L,70159
+Data Scientist,EN,L,83884
+Data Scientist,EN,L,86750
+Data Scientist,EN,L,83973
+Data Scientist,EN,L,83882
+Data Scientist,EN,L,73845
+Data Scientist,EN,L,81929
+Data Scientist,EN,L,70148
+Data Scientist,EN,L,81512
+Data Scientist,EN,L,78443
+Data Scientist,EN,L,72687
+Data Scientist,EN,L,87979
+Data Scientist,EN,L,81417
+Data Scientist,EN,L,72239
+Data Scientist,EN,L,70981
+Data Scientist,EN,L,73471
+Data Scientist,EN,L,86337
+Data Scientist,EN,L,71236
+Data Scientist,EN,L,74374
+Data Scientist,EN,L,70622
+Data Scientist,EN,L,73228
+Data Scientist,EN,L,73329
+Data Scientist,EN,L,87991
+Data Scientist,EN,L,84626
+Data Scientist,EN,L,85326
+Data Scientist,EN,L,81071
+Data Scientist,EN,L,74964
+Data Scientist,EN,L,73319
+Data Scientist,EN,L,81013
+Data Scientist,EN,L,83148
+Data Scientist,EN,L,79287
+Data Scientist,EN,L,73232
+Data Scientist,EN,L,80364
+Data Scientist,EN,L,83624
+Data Scientist,EN,L,87586
+Data Scientist,EN,L,72787
+Data Scientist,EN,L,77358
+Data Engineer,EN,S,54234
+Data Engineer,EN,S,61190
+Data Engineer,EN,S,69136
+Data Engineer,EN,S,62572
+Data Engineer,EN,S,61432
+Data Engineer,EN,S,64803
+Data Engineer,EN,S,59339
+Data Engineer,EN,S,47639
+Data Engineer,EN,S,76254
+Data Engineer,EN,S,44892
+Data Engineer,EN,S,79510
+Data Engineer,EN,S,56330
+Data Engineer,EN,S,75748
+Data Engineer,EN,S,53023
+Data Engineer,EN,S,56689
+Data Engineer,EN,S,53128
+Data Engineer,EN,S,74341
+Data Engineer,EN,S,70967
+Data Engineer,EN,S,67546
+Data Engineer,EN,S,77983
+Data Engineer,EN,S,52780
+Data Engineer,EN,S,65146
+Data Engineer,EN,S,67104
+Data Engineer,EN,S,50994
+Data Engineer,EN,S,61939
+Data Engineer,EN,S,74463
+Data Engineer,EN,S,43102
+Data Engineer,EN,S,69021
+Data Engineer,EN,S,45451
+Data Engineer,EN,S,54407
+Data Engineer,EN,S,66721
+Data Engineer,EN,S,60216
+Data Engineer,EN,S,43357
+Data Engineer,EN,S,43908
+Data Engineer,EN,S,73144
+Data Engineer,EN,S,46306
+Data Engineer,EN,S,51650
+Data Engineer,EN,S,57915
+Data Engineer,EN,S,66120
+Data Engineer,EN,S,71339
+Data Engineer,EN,S,61709
+Data Engineer,EN,S,41131
+Data Engineer,EN,S,42073
+Data Engineer,EN,M,75141
+Data Engineer,EN,M,78733
+Data Engineer,EN,M,73147
+Data Engineer,EN,M,68287
+Data Engineer,EN,M,65345
+Data Engineer,EN,M,56740
+Data Engineer,EN,M,47975
+Data Engineer,EN,M,79373
+Data Engineer,EN,M,56869
+Data Engineer,EN,M,58192
+Data Engineer,EN,M,51302
+Data Engineer,EN,M,66503
+Data Engineer,EN,M,53980
+Data Engineer,EN,M,53539
+Data Engineer,EN,M,66616
+Data Engineer,EN,M,50726
+Data Engineer,EN,M,55279
+Data Engineer,EN,M,64277
+Data Engineer,EN,M,66217
+Data Engineer,EN,M,57351
+Data Engineer,EN,M,51324
+Data Engineer,EN,M,46274
+Data Engineer,EN,M,54196
+Data Engineer,EN,M,59472
+Data Engineer,EN,M,65508
+Data Engineer,EN,M,64809
+Data Engineer,EN,M,79974
+Data Engineer,EN,M,58455
+Data Engineer,EN,M,71921
+Data Engineer,EN,M,45361
+Data Engineer,EN,M,66689
+Data Engineer,EN,M,54863
+Data Engineer,EN,M,47965
+Data Engineer,EN,M,61505
+Data Engineer,EN,M,72181
+Data Engineer,EN,M,46829
+Data Engineer,EN,M,72339
+Data Engineer,EN,M,77500
+Data Engineer,EN,L,86735
+Data Engineer,EN,L,60839
+Data Engineer,EN,L,70536
+Data Engineer,EN,L,78705
+Data Engineer,EN,L,65033
+Data Engineer,EN,L,67047
+Data Engineer,EN,L,71096
+Data Engineer,EN,L,74451
+Data Engineer,EN,L,74488
+Data Engineer,EN,L,66380
+Data Engineer,EN,L,61400
+Data Engineer,EN,L,79352
+Data Engineer,EN,L,79139
+Data Engineer,EN,L,81091
+Data Engineer,EN,L,73862
+Data Engineer,EN,L,70785
+Data Engineer,EN,L,82610
+Data Engineer,EN,L,61462
+Data Engineer,EN,L,61531
+Data Engineer,EN,L,82743
+Data Engineer,EN,L,77945
+Data Engineer,EN,L,76413
+Data Engineer,EN,L,65598
+Data Engineer,EN,L,67499
+Data Engineer,EN,L,67999
+Data Engineer,EN,L,76771
+Data Engineer,EN,L,83316
+Data Engineer,EN,L,82677
+Data Engineer,EN,L,67300
+Data Engineer,EN,L,73282
+Data Engineer,EN,L,80838
+Data Engineer,EN,L,87390
+Data Engineer,EN,L,80683
+Data Engineer,EN,L,68623
+Data Engineer,EN,L,85391
+Data Engineer,EN,L,86160
+Data Engineer,EN,L,62299
+Data Engineer,EN,L,87784
+Data Engineer,EN,L,87066
+Data Engineer,EN,L,84822
+Data Engineer,EN,L,82066
+Data Engineer,EN,L,71889
+Data Engineer,EN,L,72974
+Data Engineer,EN,L,70601
+Data Engineer,MI,S,82005
+Data Engineer,MI,S,81542
+Data Engineer,MI,S,109923
+Data Engineer,MI,S,103967
+Data Engineer,MI,S,90942
+Data Engineer,MI,S,98072
+Data Engineer,MI,S,106535
+Data Engineer,MI,S,108998
+Data Engineer,MI,S,91382
+Data Engineer,MI,S,102322
+Data Engineer,MI,S,103473
+Data Engineer,MI,S,88649
+Data Engineer,MI,S,81301
+Data Engineer,MI,S,88077
+Data Engineer,MI,S,109954
+Data Engineer,MI,S,97229
+Data Engineer,MI,S,83468
+Data Engineer,MI,S,97366
+Data Engineer,MI,S,109201
+Data Engineer,MI,S,83980
+Data Engineer,MI,S,98486
+Data Engineer,MI,S,105314
+Data Engineer,MI,S,88875
+Data Engineer,MI,S,75432
+Data Engineer,MI,S,86955
+Data Engineer,MI,S,102789
+Data Engineer,MI,S,77655
+Data Engineer,MI,S,107420
+Data Engineer,MI,S,100883
+Data Engineer,MI,S,89068
+Data Engineer,MI,S,83889
+Data Engineer,MI,S,101426
+Data Engineer,MI,S,96816
+Data Engineer,MI,S,101571
+Data Engineer,MI,S,102387
+Data Engineer,MI,M,97900
+Data Engineer,MI,M,110923
+Data Engineer,MI,M,86254
+Data Engineer,MI,M,92165
+Data Engineer,MI,M,89035
+Data Engineer,MI,M,87205
+Data Engineer,MI,M,107147
+Data Engineer,MI,M,82772
+Data Engineer,MI,M,104817
+Data Engineer,MI,M,90866
+Data Engineer,MI,L,119093
+Data Engineer,MI,L,134190
+Data Engineer,MI,L,136973
+Data Engineer,MI,L,149674
+Data Engineer,MI,L,133317
+Data Engineer,MI,L,148256
+Data Engineer,MI,L,133567
+Data Engineer,MI,L,118053
+Data Engineer,MI,L,120628
+Data Engineer,MI,L,140951
+Data Engineer,MI,L,143575
+Data Engineer,MI,L,133199
+Data Engineer,MI,L,131473
+Data Engineer,MI,L,143711
+Data Engineer,MI,L,145434
+Data Engineer,MI,L,130664
+Data Engineer,MI,L,147928
+Data Engineer,MI,L,118278
+Data Engineer,MI,L,125659
+Data Engineer,MI,L,142043
+Data Engineer,MI,L,137286
+Data Engineer,MI,L,133312
+Data Engineer,MI,L,136021
+Data Engineer,MI,L,130383
+Data Engineer,MI,L,149596
+Data Engineer,MI,L,136556
+Data Engineer,MI,L,136985
+Data Engineer,MI,L,128939
+Data Engineer,MI,L,136187
+Data Engineer,MI,L,143766
+Data Engineer,MI,L,142382
+Data Engineer,MI,L,122585
+Data Engineer,MI,L,130911
+Data Engineer,MI,L,119353
+Data Engineer,MI,L,147183
+Data Engineer,MI,L,120526
+Data Engineer,SE,S,146382
+Data Engineer,SE,S,159629
+Data Engineer,SE,S,121496
+Data Engineer,SE,S,153891
+Data Engineer,SE,S,129132
+Data Engineer,SE,S,120060
+Data Engineer,SE,S,133124
+Data Engineer,SE,S,151926
+Data Engineer,SE,S,162025
+Data Engineer,SE,S,145262
+Data Engineer,SE,S,128184
+Data Engineer,SE,S,153063
+Data Engineer,SE,S,151136
+Data Engineer,SE,S,128142
+Data Engineer,SE,S,127057
+Data Engineer,SE,S,139920
+Data Engineer,SE,S,132662
+Data Engineer,SE,S,153717
+Data Engineer,SE,S,132843
+Data Engineer,SE,S,167654
+Data Engineer,SE,S,167900
+Data Engineer,SE,S,150042
+Data Engineer,SE,S,124163
+Data Engineer,SE,S,145877
+Data Engineer,SE,S,148111
+Data Engineer,SE,S,145405
+Data Engineer,SE,S,143348
+Data Engineer,SE,S,160760
+Data Engineer,SE,S,131751
+Data Engineer,SE,S,160360
+Data Engineer,SE,S,159836
+Data Engineer,SE,S,142970
+Data Engineer,SE,S,132437
+Data Engineer,SE,S,163050
+Data Engineer,SE,S,144941
+Data Engineer,SE,L,171733
+Data Engineer,SE,L,171552
+Data Engineer,SE,L,154118
+Data Engineer,SE,L,142141
+Data Engineer,SE,L,183704
+Data Engineer,SE,L,113200
+Data Engineer,SE,L,180810
+Data Engineer,SE,L,174539
+Data Engineer,SE,L,128249
+Data Engineer,SE,L,141255
+Data Engineer,SE,L,153733
+Data Engineer,SE,L,141283
+Data Engineer,SE,L,165284
+Data Engineer,SE,L,165835
+Data Engineer,SE,L,134961
+Data Engineer,SE,L,115684
+Data Engineer,SE,L,182515
+Data Engineer,SE,L,139005
+Data Engineer,SE,L,135074
+Data Engineer,SE,L,125000
+Data Engineer,SE,L,182768
+Data Engineer,SE,L,115393
+Data Engineer,SE,L,132501
+Data Engineer,SE,L,144127
+Data Engineer,SE,L,154286
+Data Engineer,SE,L,191009
+Data Engineer,SE,L,159409
+Data Engineer,SE,L,165835
+Data Engineer,SE,L,113341
+Data Engineer,SE,L,191477
+Data Engineer,SE,L,145597
+Data Engineer,SE,L,157659
+Data Engineer,SE,L,156401
+Data Engineer,SE,L,134440
+Data Engineer,SE,L,150860
+Data Engineer,SE,L,161162
+Data Engineer,SE,L,131868
+Data Engineer,SE,L,171194
+Data Engineer,SE,L,139600
+Data Engineer,SE,L,131467
+Data Engineer,SE,L,162632
+Data Engineer,SE,L,151787
+Data Engineer,SE,L,110964
+Data Engineer,SE,L,112598
+Data Engineer,SE,L,142418
+Data Engineer,SE,L,129394
+Data Engineer,SE,L,165313
+Data Engineer,SE,L,138529
+Data Engineer,SE,L,189324
+Data Engineer,SE,L,176017
+Data Engineer,SE,L,121001
+Data Engineer,SE,L,153475
+Data Engineer,SE,L,171073
+Machine Learning Engineer,EN,S,70659
+Machine Learning Engineer,EN,S,74142
+Machine Learning Engineer,EN,S,70991
+Machine Learning Engineer,EN,S,61648
+Machine Learning Engineer,EN,S,64655
+Machine Learning Engineer,EN,S,62736
+Machine Learning Engineer,EN,S,61207
+Machine Learning Engineer,EN,S,67496
+Machine Learning Engineer,EN,S,69179
+Machine Learning Engineer,EN,S,66654
+Machine Learning Engineer,EN,S,74183
+Machine Learning Engineer,EN,S,69889
+Machine Learning Engineer,EN,S,65221
+Machine Learning Engineer,EN,S,68087
+Machine Learning Engineer,EN,S,66522
+Machine Learning Engineer,EN,S,63935
+Machine Learning Engineer,EN,S,72613
+Machine Learning Engineer,EN,S,64258
+Machine Learning Engineer,EN,S,67170
+Machine Learning Engineer,EN,S,74827
+Machine Learning Engineer,EN,S,69926
+Machine Learning Engineer,EN,S,70983
+Machine Learning Engineer,EN,S,71708
+Machine Learning Engineer,EN,S,70774
+Machine Learning Engineer,EN,S,68244
+Machine Learning Engineer,EN,S,60062
+Machine Learning Engineer,EN,S,69079
+Machine Learning Engineer,EN,S,61043
+Machine Learning Engineer,EN,S,60875
+Machine Learning Engineer,EN,S,64763
+Machine Learning Engineer,EN,S,69314
+Machine Learning Engineer,EN,S,66295
+Machine Learning Engineer,EN,S,70687
+Machine Learning Engineer,EN,S,66322
+Machine Learning Engineer,EN,S,72852
+Machine Learning Engineer,EN,S,73543
+Machine Learning Engineer,EN,S,67079
+Machine Learning Engineer,EN,S,68989
+Machine Learning Engineer,EN,M,87159
+Machine Learning Engineer,EN,M,62118
+Machine Learning Engineer,EN,M,77498
+Machine Learning Engineer,EN,M,79864
+Machine Learning Engineer,EN,M,80226
+Machine Learning Engineer,EN,M,74420
+Machine Learning Engineer,EN,M,74162
+Machine Learning Engineer,EN,M,62725
+Machine Learning Engineer,EN,M,63132
+Machine Learning Engineer,EN,M,78196
+Machine Learning Engineer,EN,M,86283
+Machine Learning Engineer,EN,M,65204
+Machine Learning Engineer,EN,M,71723
+Machine Learning Engineer,EN,M,68331
+Machine Learning Engineer,EN,M,68674
+Machine Learning Engineer,EN,M,77843
+Machine Learning Engineer,EN,M,75440
+Machine Learning Engineer,EN,M,61660
+Machine Learning Engineer,EN,M,68988
+Machine Learning Engineer,EN,M,80935
+Machine Learning Engineer,EN,M,73701
+Machine Learning Engineer,EN,M,65105
+Machine Learning Engineer,EN,M,81452
+Machine Learning Engineer,EN,M,60762
+Machine Learning Engineer,EN,M,75674
+Machine Learning Engineer,EN,M,88429
+Machine Learning Engineer,EN,M,84544
+Machine Learning Engineer,EN,M,78793
+Machine Learning Engineer,EN,M,68669
+Machine Learning Engineer,EN,M,74652
+Machine Learning Engineer,EN,M,61704
+Machine Learning Engineer,EN,M,80116
+Machine Learning Engineer,EN,M,66644
+Machine Learning Engineer,EN,M,60509
+Machine Learning Engineer,EN,M,87833
+Machine Learning Engineer,EN,M,72561
+Machine Learning Engineer,EN,M,73086
+Machine Learning Engineer,EN,M,79560
+Machine Learning Engineer,EN,M,89128
+Machine Learning Engineer,EN,M,66989
+Machine Learning Engineer,EN,M,61234
+Machine Learning Engineer,EN,M,75612
+Machine Learning Engineer,EN,M,65903
+Machine Learning Engineer,EN,M,84844
+Machine Learning Engineer,EN,L,72183
+Machine Learning Engineer,EN,L,94666
+Machine Learning Engineer,EN,L,83759
+Machine Learning Engineer,EN,L,77510
+Machine Learning Engineer,EN,L,87380
+Machine Learning Engineer,EN,L,83675
+Machine Learning Engineer,EN,L,92007
+Machine Learning Engineer,EN,L,89465
+Machine Learning Engineer,EN,L,67304
+Machine Learning Engineer,EN,L,68250
+Machine Learning Engineer,EN,L,69962
+Machine Learning Engineer,EN,L,84898
+Machine Learning Engineer,EN,L,83143
+Machine Learning Engineer,EN,L,88370
+Machine Learning Engineer,EN,L,90376
+Machine Learning Engineer,EN,L,65972
+Machine Learning Engineer,EN,L,72316
+Machine Learning Engineer,EN,L,74434
+Machine Learning Engineer,EN,L,81614
+Machine Learning Engineer,EN,L,69671
+Machine Learning Engineer,EN,L,87551
+Machine Learning Engineer,EN,L,90985
+Machine Learning Engineer,EN,L,78243
+Machine Learning Engineer,EN,L,90639
+Machine Learning Engineer,EN,L,85527
+Machine Learning Engineer,EN,L,86921
+Machine Learning Engineer,EN,L,74078
+Machine Learning Engineer,EN,L,84828
+Machine Learning Engineer,EN,L,87071
+Machine Learning Engineer,EN,L,89437
+Machine Learning Engineer,EN,L,76857
+Machine Learning Engineer,EN,L,93160
+Machine Learning Engineer,EN,L,84327
+Machine Learning Engineer,EN,L,69622
+Machine Learning Engineer,EN,L,84485
+Machine Learning Engineer,EN,L,65048
+Machine Learning Engineer,EN,L,84634
+Machine Learning Engineer,EN,L,67075
+Machine Learning Engineer,EN,L,71864
+Machine Learning Engineer,EN,L,93065
+Machine Learning Engineer,EN,L,67550
+Machine Learning Engineer,EN,L,68357
+Machine Learning Engineer,EN,L,86733
+Machine Learning Engineer,EN,L,86103
+Machine Learning Engineer,EN,L,88658
+Machine Learning Engineer,EN,L,66108
+Machine Learning Engineer,EN,L,73545
+Machine Learning Engineer,EN,L,93566
+Machine Learning Engineer,EN,L,87030
+Machine Learning Engineer,EN,L,66591
+Machine Learning Engineer,EN,L,85381
+Machine Learning Engineer,EN,L,76470
+Machine Learning Engineer,EN,L,65094
+Machine Learning Engineer,EN,L,73240
+Machine Learning Engineer,EN,L,94457
+Machine Learning Engineer,EN,L,73572
+Machine Learning Engineer,MI,S,99671
+Machine Learning Engineer,MI,S,105018
+Machine Learning Engineer,MI,S,104707
+Machine Learning Engineer,MI,S,96046
+Machine Learning Engineer,MI,S,97384
+Machine Learning Engineer,MI,S,100048
+Machine Learning Engineer,MI,S,104002
+Machine Learning Engineer,MI,S,109842
+Machine Learning Engineer,MI,S,108908
+Machine Learning Engineer,MI,S,107199
+Machine Learning Engineer,MI,S,87983
+Machine Learning Engineer,MI,S,99127
+Machine Learning Engineer,MI,S,106118
+Machine Learning Engineer,MI,S,103575
+Machine Learning Engineer,MI,S,90411
+Machine Learning Engineer,MI,S,102051
+Machine Learning Engineer,MI,S,91742
+Machine Learning Engineer,MI,S,103262
+Machine Learning Engineer,MI,S,87793
+Machine Learning Engineer,MI,S,109913
+Machine Learning Engineer,MI,S,97607
+Machine Learning Engineer,MI,S,99041
+Machine Learning Engineer,MI,S,98821
+Machine Learning Engineer,MI,S,89463
+Machine Learning Engineer,MI,S,96318
+Machine Learning Engineer,MI,S,109733
+Machine Learning Engineer,MI,S,90842
+Machine Learning Engineer,MI,S,94543
+Machine Learning Engineer,MI,S,97377
+Machine Learning Engineer,MI,S,108917
+Machine Learning Engineer,MI,S,109553
+Machine Learning Engineer,MI,S,101494
+Machine Learning Engineer,MI,S,108046
+Machine Learning Engineer,MI,S,93493
+Machine Learning Engineer,MI,S,101977
+Machine Learning Engineer,MI,S,90394
+Machine Learning Engineer,MI,S,96743
+Machine Learning Engineer,MI,S,87037
+Machine Learning Engineer,MI,S,106297
+Machine Learning Engineer,MI,S,102564
+Machine Learning Engineer,MI,S,108827
+Machine Learning Engineer,MI,S,91462
+Machine Learning Engineer,MI,M,98957
+Machine Learning Engineer,MI,M,112656
+Machine Learning Engineer,MI,M,110673
+Machine Learning Engineer,MI,M,117858
+Machine Learning Engineer,MI,M,117839
+Machine Learning Engineer,MI,M,113918
+Machine Learning Engineer,MI,M,123091
+Machine Learning Engineer,MI,M,112632
+Machine Learning Engineer,MI,M,91122
+Machine Learning Engineer,MI,M,122946
+Machine Learning Engineer,MI,M,114689
+Machine Learning Engineer,MI,M,101649
+Machine Learning Engineer,MI,M,123505
+Machine Learning Engineer,MI,M,116019
+Machine Learning Engineer,MI,M,92164
+Machine Learning Engineer,MI,M,94390
+Machine Learning Engineer,MI,M,118970
+Machine Learning Engineer,MI,M,116597
+Machine Learning Engineer,MI,M,116816
+Machine Learning Engineer,MI,M,100728
+Machine Learning Engineer,MI,M,104386
+Machine Learning Engineer,MI,M,98455
+Machine Learning Engineer,MI,M,113905
+Machine Learning Engineer,MI,M,123498
+Machine Learning Engineer,MI,M,92490
+Machine Learning Engineer,MI,M,91786
+Machine Learning Engineer,MI,M,102766
+Machine Learning Engineer,MI,M,114951
+Machine Learning Engineer,MI,M,108280
+Machine Learning Engineer,MI,M,112322
+Machine Learning Engineer,MI,M,107899
+Machine Learning Engineer,MI,M,108834
+Machine Learning Engineer,MI,M,106186
+Machine Learning Engineer,MI,M,114875
+Machine Learning Engineer,MI,M,120271
+Machine Learning Engineer,MI,M,108185
+Machine Learning Engineer,MI,M,118616
+Machine Learning Engineer,MI,M,116297
+Machine Learning Engineer,MI,M,90549
+Machine Learning Engineer,MI,M,123396
+Machine Learning Engineer,MI,L,112959
+Machine Learning Engineer,MI,L,108783
+Machine Learning Engineer,MI,L,127799
+Machine Learning Engineer,MI,L,118939
+Machine Learning Engineer,MI,L,124517
+Machine Learning Engineer,MI,L,105417
+Machine Learning Engineer,MI,L,102263
+Machine Learning Engineer,MI,L,129446
+Machine Learning Engineer,MI,L,117349
+Machine Learning Engineer,MI,L,128208
+Machine Learning Engineer,MI,L,117036
+Machine Learning Engineer,MI,L,105205
+Machine Learning Engineer,MI,L,110094
+Machine Learning Engineer,MI,L,100485
+Machine Learning Engineer,MI,L,114765
+Machine Learning Engineer,MI,L,123527
+Machine Learning Engineer,MI,L,129370
+Machine Learning Engineer,MI,L,126087
+Machine Learning Engineer,MI,L,116226
+Machine Learning Engineer,MI,L,122321
+Machine Learning Engineer,MI,L,120199
+Machine Learning Engineer,MI,L,126185
+Machine Learning Engineer,MI,L,120733
+Machine Learning Engineer,MI,L,123434
+Machine Learning Engineer,MI,L,119270
+Machine Learning Engineer,MI,L,104337
+Machine Learning Engineer,MI,L,110745
+Machine Learning Engineer,MI,L,118408
+Machine Learning Engineer,MI,L,106759
+Machine Learning Engineer,MI,L,103902
+Machine Learning Engineer,MI,L,121721
+Machine Learning Engineer,MI,L,121395
+Machine Learning Engineer,MI,L,122609
+Machine Learning Engineer,MI,L,115593
+Machine Learning Engineer,MI,L,114042
+Machine Learning Engineer,MI,L,128503
+Machine Learning Engineer,MI,L,121930
+Machine Learning Engineer,SE,S,104992
+Machine Learning Engineer,SE,S,115784
+Machine Learning Engineer,SE,S,120501
+Machine Learning Engineer,SE,S,146220
+Machine Learning Engineer,SE,S,117212
+Machine Learning Engineer,SE,S,134303
+Machine Learning Engineer,SE,S,123603
+Machine Learning Engineer,SE,S,118719
+Machine Learning Engineer,SE,S,130789
+Machine Learning Engineer,SE,S,102902
+Machine Learning Engineer,SE,S,130281
+Machine Learning Engineer,SE,S,147022
+Machine Learning Engineer,SE,S,136936
+Machine Learning Engineer,SE,S,129380
+Machine Learning Engineer,SE,S,111768
+Machine Learning Engineer,SE,S,120365
+Machine Learning Engineer,SE,S,101538
+Machine Learning Engineer,SE,S,107087
+Machine Learning Engineer,SE,S,106355
+Machine Learning Engineer,SE,S,108389
+Machine Learning Engineer,SE,S,122983
+Machine Learning Engineer,SE,S,148511
+Machine Learning Engineer,SE,S,101933
+Machine Learning Engineer,SE,S,119895
+Machine Learning Engineer,SE,S,141994
+Machine Learning Engineer,SE,S,126227
+Machine Learning Engineer,SE,S,100802
+Machine Learning Engineer,SE,S,109713
+Machine Learning Engineer,SE,S,139909
+Machine Learning Engineer,SE,S,101923
+Machine Learning Engineer,SE,S,101698
+Machine Learning Engineer,SE,S,105924
+Machine Learning Engineer,SE,S,144268
+Machine Learning Engineer,SE,S,114899
+Machine Learning Engineer,SE,S,121610
+Machine Learning Engineer,SE,S,108889
+Machine Learning Engineer,SE,S,101028
+Machine Learning Engineer,SE,S,127188
+Machine Learning Engineer,SE,S,140311
+Machine Learning Engineer,SE,S,141030
+Machine Learning Engineer,SE,S,113942
+Machine Learning Engineer,SE,S,132582
+Machine Learning Engineer,SE,S,101866
+Machine Learning Engineer,SE,M,169426
+Machine Learning Engineer,SE,M,157153
+Machine Learning Engineer,SE,M,175542
+Machine Learning Engineer,SE,M,185217
+Machine Learning Engineer,SE,M,178210
+Machine Learning Engineer,SE,M,193945
+Machine Learning Engineer,SE,M,134434
+Machine Learning Engineer,SE,M,152166
+Machine Learning Engineer,SE,M,131557
+Machine Learning Engineer,SE,M,173435
+Machine Learning Engineer,SE,M,145920
+Machine Learning Engineer,SE,M,189938
+Machine Learning Engineer,SE,M,139635
+Machine Learning Engineer,SE,M,152170
+Machine Learning Engineer,SE,M,180221
+Machine Learning Engineer,SE,M,150314
+Machine Learning Engineer,SE,M,152561
+Machine Learning Engineer,SE,M,171189
+Machine Learning Engineer,SE,M,138158
+Machine Learning Engineer,SE,M,164603
+Machine Learning Engineer,SE,M,150072
+Machine Learning Engineer,SE,M,179570
+Machine Learning Engineer,SE,M,147581
+Machine Learning Engineer,SE,M,160203
+Machine Learning Engineer,SE,M,143083
+Machine Learning Engineer,SE,M,130661
+Machine Learning Engineer,SE,M,132425
+Machine Learning Engineer,SE,M,170334
+Machine Learning Engineer,SE,M,151994
+Machine Learning Engineer,SE,M,157305
+Machine Learning Engineer,SE,M,185756
+Machine Learning Engineer,SE,M,192365
+Machine Learning Engineer,SE,M,177771
+Machine Learning Engineer,SE,M,175728
+Machine Learning Engineer,SE,M,188448
+Machine Learning Engineer,SE,M,174063
+Machine Learning Engineer,SE,M,186890
+Machine Learning Engineer,SE,M,151540
+Machine Learning Engineer,SE,M,170810
+Machine Learning Engineer,SE,M,144841
+Machine Learning Engineer,SE,L,210430
+Machine Learning Engineer,SE,L,254906
+Machine Learning Engineer,SE,L,251775
+Machine Learning Engineer,SE,L,215158
+Machine Learning Engineer,SE,L,244846
+Machine Learning Engineer,SE,L,253788
+Machine Learning Engineer,SE,L,240017
+Machine Learning Engineer,SE,L,220909
+Machine Learning Engineer,SE,L,241160
+Machine Learning Engineer,SE,L,150552
+Machine Learning Engineer,SE,L,184246
+Machine Learning Engineer,SE,L,208264
+Machine Learning Engineer,SE,L,226273
+Machine Learning Engineer,SE,L,161888
+Machine Learning Engineer,SE,L,169034
+Machine Learning Engineer,SE,L,240098
+Machine Learning Engineer,SE,L,245869
+Machine Learning Engineer,SE,L,208533
+Machine Learning Engineer,SE,L,179170
+Machine Learning Engineer,SE,L,236716
+Machine Learning Engineer,SE,L,254136
+Machine Learning Engineer,SE,L,206117
+Machine Learning Engineer,SE,L,231296
+Machine Learning Engineer,SE,L,187773
+Machine Learning Engineer,SE,L,186614
+Machine Learning Engineer,SE,L,150868
+Machine Learning Engineer,SE,L,234255
+Machine Learning Engineer,SE,L,155134
+Machine Learning Engineer,SE,L,152666
+Machine Learning Engineer,SE,L,245487
+Machine Learning Engineer,SE,L,206820
+Machine Learning Engineer,SE,L,220567
+Machine Learning Engineer,SE,L,207596
+Machine Learning Engineer,SE,L,244324
+Machine Learning Engineer,SE,L,258467
+Machine Learning Engineer,SE,L,203487
+Machine Learning Engineer,SE,L,180907
+Machine Learning Engineer,SE,L,159748
+Machine Learning Engineer,SE,L,152703
+Machine Learning Engineer,SE,L,219608
+Machine Learning Engineer,SE,L,176531
+Machine Learning Engineer,SE,L,232032
+Machine Learning Engineer,SE,L,220738
+Machine Learning Engineer,SE,L,227861
+Data Analyst,EN,S,63634
+Data Analyst,EN,S,58928
+Data Analyst,EN,S,66271
+Data Analyst,EN,S,65605
+Data Analyst,EN,S,65451
+Data Analyst,EN,S,61341
+Data Analyst,EN,S,58766
+Data Analyst,EN,S,67434
+Data Analyst,EN,S,58446
+Data Analyst,EN,S,68077
+Data Analyst,EN,S,65854
+Data Analyst,EN,S,68227
+Data Analyst,EN,S,69666
+Data Analyst,EN,S,60433
+Data Analyst,EN,S,59531
+Data Analyst,EN,S,69953
+Data Analyst,EN,S,65607
+Data Analyst,EN,S,60530
+Data Analyst,EN,S,68707
+Data Analyst,EN,S,56216
+Data Analyst,EN,S,67032
+Data Analyst,EN,S,63958
+Data Analyst,EN,S,57629
+Data Analyst,EN,S,56710
+Data Analyst,EN,S,56063
+Data Analyst,EN,S,69749
+Data Analyst,EN,S,69480
+Data Analyst,EN,S,63093
+Data Analyst,EN,S,57914
+Data Analyst,EN,S,59413
+Data Analyst,EN,S,57835
+Data Analyst,EN,S,64446
+Data Analyst,EN,S,66841
+Data Analyst,EN,S,60813
+Data Analyst,EN,M,69566
+Data Analyst,EN,M,58064
+Data Analyst,EN,M,66320
+Data Analyst,EN,M,72463
+Data Analyst,EN,M,79696
+Data Analyst,EN,M,58788
+Data Analyst,EN,M,69491
+Data Analyst,EN,M,58488
+Data Analyst,EN,M,66675
+Data Analyst,EN,M,59800
+Data Analyst,EN,M,60761
+Data Analyst,EN,M,71644
+Data Analyst,EN,M,67818
+Data Analyst,EN,M,73067
+Data Analyst,EN,M,79926
+Data Analyst,EN,M,67572
+Data Analyst,EN,M,66435
+Data Analyst,EN,M,69511
+Data Analyst,EN,M,58352
+Data Analyst,EN,M,56893
+Data Analyst,EN,M,72545
+Data Analyst,EN,M,76813
+Data Analyst,EN,M,74741
+Data Analyst,EN,M,66971
+Data Analyst,EN,M,69419
+Data Analyst,EN,M,64461
+Data Analyst,EN,M,57919
+Data Analyst,EN,M,60721
+Data Analyst,EN,M,63317
+Data Analyst,EN,M,67481
+Data Analyst,EN,M,57903
+Data Analyst,EN,M,69430
+Data Analyst,EN,M,70703
+Data Analyst,EN,M,65680
+Data Analyst,EN,M,75116
+Data Analyst,EN,M,74123
+Data Analyst,EN,L,65839
+Data Analyst,EN,L,72635
+Data Analyst,EN,L,73375
+Data Analyst,EN,L,65268
+Data Analyst,EN,L,77173
+Data Analyst,EN,L,83919
+Data Analyst,EN,L,84996
+Data Analyst,EN,L,84965
+Data Analyst,EN,L,71969
+Data Analyst,EN,L,70646
+Data Analyst,EN,L,74245
+Data Analyst,EN,L,71217
+Data Analyst,EN,L,75726
+Data Analyst,EN,L,77378
+Data Analyst,EN,L,70101
+Data Analyst,EN,L,75312
+Data Analyst,EN,L,82708
+Data Analyst,EN,L,68011
+Data Analyst,EN,L,68304
+Data Analyst,EN,L,72245
+Data Analyst,EN,L,79935
+Data Analyst,EN,L,71225
+Data Analyst,EN,L,74196
+Data Analyst,EN,L,74517
+Data Analyst,EN,L,79076
+Data Analyst,EN,L,74453
+Data Analyst,EN,L,84867
+Data Analyst,EN,L,66187
+Data Analyst,EN,L,84211
+Data Analyst,EN,L,83157
+Data Analyst,EN,L,83801
+Data Analyst,EN,L,72684
+Data Analyst,EN,L,83686
+Data Analyst,EN,L,75159
+Data Analyst,EN,L,84544
+Data Analyst,EN,L,78436
+Data Analyst,EN,L,78099
+Data Analyst,EN,L,84835
+Data Analyst,EN,L,69996
+Data Analyst,EN,L,82615
+Data Analyst,EN,L,69766
+Data Analyst,EN,L,82224
+Data Analyst,EN,L,78755
+Data Analyst,EN,L,79367
+Data Analyst,EN,L,66680
+Data Analyst,EN,L,70137
+Data Analyst,EN,L,65022
+Data Analyst,EN,L,72321
+Data Analyst,EN,L,79972
+Data Analyst,MI,S,62880
+Data Analyst,MI,S,54995
+Data Analyst,MI,S,63201
+Data Analyst,MI,S,58359
+Data Analyst,MI,S,61971
+Data Analyst,MI,S,66504
+Data Analyst,MI,S,68052
+Data Analyst,MI,S,64418
+Data Analyst,MI,S,59768
+Data Analyst,MI,S,62631
+Data Analyst,MI,S,57124
+Data Analyst,MI,S,61888
+Data Analyst,MI,S,58208
+Data Analyst,MI,S,69808
+Data Analyst,MI,S,70957
+Data Analyst,MI,S,70509
+Data Analyst,MI,S,70448
+Data Analyst,MI,S,57706
+Data Analyst,MI,S,62237
+Data Analyst,MI,S,54492
+Data Analyst,MI,S,54932
+Data Analyst,MI,S,70454
+Data Analyst,MI,S,71278
+Data Analyst,MI,S,57838
+Data Analyst,MI,S,65277
+Data Analyst,MI,S,53800
+Data Analyst,MI,M,63293
+Data Analyst,MI,M,70238
+Data Analyst,MI,M,61655
+Data Analyst,MI,M,74741
+Data Analyst,MI,M,68466
+Data Analyst,MI,M,75492
+Data Analyst,MI,M,76550
+Data Analyst,MI,M,79936
+Data Analyst,MI,M,67878
+Data Analyst,MI,M,71417
+Data Analyst,MI,M,58440
+Data Analyst,MI,M,74102
+Data Analyst,MI,M,62342
+Data Analyst,MI,M,76382
+Data Analyst,MI,M,72223
+Data Analyst,MI,M,65617
+Data Analyst,MI,M,61391
+Data Analyst,MI,M,57724
+Data Analyst,MI,M,71490
+Data Analyst,MI,M,63609
+Data Analyst,MI,M,74301
+Data Analyst,MI,M,69182
+Data Analyst,MI,M,77306
+Data Analyst,MI,M,78320
+Data Analyst,MI,M,63862
+Data Analyst,MI,M,78725
+Data Analyst,MI,M,75784
+Data Analyst,MI,M,79299
+Data Analyst,MI,M,69779
+Data Analyst,MI,M,71255
+Data Analyst,MI,M,73700
+Data Analyst,MI,M,69360
+Data Analyst,MI,M,77427
+Data Analyst,MI,M,73294
+Data Analyst,MI,M,78266
+Data Analyst,MI,M,65985
+Data Analyst,MI,L,79259
+Data Analyst,MI,L,85298
+Data Analyst,MI,L,95627
+Data Analyst,MI,L,79479
+Data Analyst,MI,L,92521
+Data Analyst,MI,L,90624
+Data Analyst,MI,L,87939
+Data Analyst,MI,L,92836
+Data Analyst,MI,L,87842
+Data Analyst,MI,L,89600
+Data Analyst,MI,L,79161
+Data Analyst,MI,L,78505
+Data Analyst,MI,L,86888
+Data Analyst,MI,L,78138
+Data Analyst,MI,L,89578
+Data Analyst,MI,L,89001
+Data Analyst,MI,L,77148
+Data Analyst,MI,L,94431
+Data Analyst,MI,L,77179
+Data Analyst,MI,L,86327
+Data Analyst,MI,L,95768
+Data Analyst,MI,L,82537
+Data Analyst,MI,L,93918
+Data Analyst,MI,L,86846
+Data Analyst,MI,L,83240
+Data Analyst,MI,L,89841
+Data Analyst,MI,L,80940
+Data Analyst,MI,L,88168
+Data Analyst,MI,L,93826
+Data Analyst,MI,L,89174
+Data Analyst,MI,L,95022
+Data Analyst,MI,L,83919
+Data Analyst,MI,L,84165
+Data Analyst,MI,L,92228
+Data Analyst,MI,L,91650
+Data Analyst,MI,L,85133
+Data Analyst,MI,L,90643
+Data Analyst,MI,L,82598
+Data Analyst,MI,L,75245
+Data Analyst,MI,L,82921
+Data Analyst,SE,S,122407
+Data Analyst,SE,S,159903
+Data Analyst,SE,S,96739
+Data Analyst,SE,S,109416
+Data Analyst,SE,S,158730
+Data Analyst,SE,S,128045
+Data Analyst,SE,S,149693
+Data Analyst,SE,S,163106
+Data Analyst,SE,S,91617
+Data Analyst,SE,S,91105
+Data Analyst,SE,S,110353
+Data Analyst,SE,S,120457
+Data Analyst,SE,S,143274
+Data Analyst,SE,S,141086
+Data Analyst,SE,S,115804
+Data Analyst,SE,S,96856
+Data Analyst,SE,S,103481
+Data Analyst,SE,S,107396
+Data Analyst,SE,S,127661
+Data Analyst,SE,S,133357
+Data Analyst,SE,S,155715
+Data Analyst,SE,S,147518
+Data Analyst,SE,S,113220
+Data Analyst,SE,S,150238
+Data Analyst,SE,S,115309
+Data Analyst,SE,S,147501
+Data Analyst,SE,S,142857
+Data Analyst,SE,S,101024
+Data Analyst,SE,S,81986
+Data Analyst,SE,S,162655
+Data Analyst,SE,S,106070
+Data Analyst,SE,S,132764
+Data Analyst,SE,S,154972
+Data Analyst,SE,S,157226
+Data Analyst,SE,S,137706
+Data Analyst,SE,S,151284
+Data Analyst,SE,S,151993
+Data Analyst,SE,S,85932
+Data Analyst,SE,S,99037
+Data Analyst,SE,S,143056
+Data Analyst,SE,S,109844
+Data Analyst,SE,S,92759
+Data Analyst,SE,S,115431
+Data Analyst,SE,L,174040
+Data Analyst,SE,L,114528
+Data Analyst,SE,L,142629
+Data Analyst,SE,L,153906
+Data Analyst,SE,L,93349
+Data Analyst,SE,L,139686
+Data Analyst,SE,L,118039
+Data Analyst,SE,L,171267
+Data Analyst,SE,L,153114
+Data Analyst,SE,L,155986
+Data Analyst,SE,L,101959
+Data Analyst,SE,L,135290
+Data Analyst,SE,L,128059
+Data Analyst,SE,L,104403
+Data Analyst,SE,L,114846
+Data Analyst,SE,L,103354
+Data Analyst,SE,L,88519
+Data Analyst,SE,L,110889
+Data Analyst,SE,L,157906
+Data Analyst,SE,L,133663
+Data Analyst,SE,L,134197
+Data Analyst,SE,L,105542
+Data Analyst,SE,L,155753
+Data Analyst,SE,L,162797
+Data Analyst,SE,L,127477
+Data Analyst,SE,L,174011
+Data Analyst,SE,L,135965
+Data Analyst,SE,L,82341
+Data Analyst,SE,L,104603
+Data Analyst,SE,L,95992
+Data Analyst,SE,L,115336
+Data Analyst,SE,L,154595
+Data Analyst,SE,L,148960
+Data Analyst,SE,L,160887
+Data Analyst,SE,L,131886
+Data Analyst,SE,L,158144
+Data Analyst,SE,L,100723
+Data Analyst,SE,L,91307
+Data Analyst,SE,L,175441
+Data Analyst,SE,L,83977
+Data Analyst,SE,L,116945
+Data Analyst,SE,L,160370
+Data Analyst,SE,L,161087
+Data Analyst,SE,L,156806
+Data Analyst,SE,L,177352
+Data Analyst,SE,L,146737
+Data Analyst,SE,L,118465
